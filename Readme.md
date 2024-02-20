@@ -12,7 +12,7 @@
 
 I'm a Smart Contract, Web3 Developer for both evm and non evm chains,Smart Contract Auditor ⚙️, film director🎞️ and a 3D artist. With high proficiency in rust, solidity, js
 
-Checkot one of my films `Mtingo` at [Entertainmint](https://www.entertainmint.com/theatres/HACC) by scrolling on the screening section
+Checkout one of my films `Mtingo` at [Entertainmint](https://www.entertainmint.com/theatres/HACC) by scrolling on the screening section
 
 I love to learn, to code, build stuff, animate stuff, pyschology stuff, financial management and life enthusiast.
 
