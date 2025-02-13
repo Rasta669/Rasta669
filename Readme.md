@@ -1,6 +1,6 @@
 <h2> Hi there ✌🏿, I'm Rasta Bujo! </h2>
 
-🎥 Co-founder of [UndiscoveredGoats](https://www.instagram.com/undiscoveredgoats?igsh=YzljYTk1ODg3Zg==)
+🎥 Co-founder of [UndiscoveredGoats](https://www.undiscoveredgoats.xyz)
 
     
 [![Rasta Bujo Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasta-bujo-06150b15a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
